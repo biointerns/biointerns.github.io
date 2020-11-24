@@ -6,10 +6,85 @@
     <description>Recent content in tag_a on BioInterns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://biointerns.github.io/tags/tag_a/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CHSL Undergraduate Research Program (2021)</title>
+      <link>https://biointerns.github.io/posts/cshl/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://biointerns.github.io/posts/cshl/</guid>
+      <description>COLD SPRING HARBOR LABORATORY UNDERGRADUATE RESEARCH PROGRAM
+Where: New York, United States
+When: 07/06 - 07/08/2021
+Application Deadline: 15/01/2021
+Benefits: accommodation &amp;amp; meals are covered + 5500 DOLLARS for personal expenses. Travel costs are not reimbursed.
+Research areas:
+ Molecular biology &amp;amp; cancer Genetics &amp;amp; genomics Neuroscience Plant biology Quantitative biology  Website: Cold Spring Harbor Laboratory</description>
+    </item>
+    
+    <item>
+      <title>EMBL Undergraduate Internships (2021)</title>
+      <link>https://biointerns.github.io/posts/embl/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://biointerns.github.io/posts/embl/</guid>
+      <description>EMBL Undergraduate Internships
+Where: Vienna, Austria
+When: anytime, to be decided together with Group Leader
+Application Deadline: anytime
+Benefits: contribution towards living expenses to be agreed with Group Leader
+Research areas:
+ Cell signalling &amp;amp; differentiation Cellular organisation &amp;amp; dynamics Evolution Gene regulation, chromatin &amp;amp; epigenetic RNA regulation &amp;amp; transcriptomics Genetics &amp;amp; genomics Metabolism &amp;amp; virology Microbiology &amp;amp; virology Protein &amp;amp; proteomics Tissue &amp;amp; systems biology  Website: EMBL internship</description>
+    </item>
+    
+    <item>
+      <title>Janelia Undergraduate Scholars Program (2021)</title>
+      <link>https://biointerns.github.io/posts/janelia/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://biointerns.github.io/posts/janelia/</guid>
+      <description>JANELIA UNDERGRADUATE SCHOLARS PROGRAM
+Where: Virginia, United States
+When: 10 weeks (to be defined with host laboratory) between May and August, 2021
+Application Deadline: 07/01/2021
+Benefits: accommodation and travel costs are covered + 5000 DOLLARS for personal expenses
+Research areas:
+ Behavioral &amp;amp; systems neuroscience Cellular &amp;amp; molecular neuroscience Evolution &amp;amp; genetics Instrumentation &amp;amp; computational tool development Neuronal cell biology Optical physics &amp;amp; imaging Structural biology &amp;amp; biochemistry Theory &amp;amp; computational neuroscience  Website: Janelia Farm</description>
+    </item>
+    
+    <item>
+      <title>Stowers Summer Scholars (2021)</title>
+      <link>https://biointerns.github.io/posts/stowers/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://biointerns.github.io/posts/stowers/</guid>
+      <description>STOWERS INSTITUTE SUMMER SCHOLARS
+Where: Kansas City, United States
+When: 07/06 - 30/07/2021
+Application Deadline: 01/02/2021
+Benefits: accommodation and travel costs are covered + 4000 DOLLARS for personal expenses
+Research areas:
+ Chromatin &amp;amp; regulation of gene expression Chromosome structure &amp;amp; cell division Computational biology Modeling &amp;amp; technology Developmental genetics &amp;amp; cell biology Developmental neuroscience Neuroscience Stem cells &amp;amp; regeneration  Website: Stowers Institute</description>
+    </item>
+    
+    <item>
+      <title>Vienna BioCenter Summer School</title>
+      <link>https://biointerns.github.io/posts/vienna/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://biointerns.github.io/posts/vienna/</guid>
+      <description>VIENNA BIOCENTER SUMMER SCHOOL
+Where: Vienna, Austria
+When: 26/06 - 28/08/2020
+Application Deadline: 31/01/2020
+Benefits: accommodation and travel costs are covered + 1400 EURO for personal expenses
+Research areas:
+ Molecular biology Neuroscience Immunology Bioinformatics RNA biology Stem cells Biochemistry  Website: Vienna BioCenter</description>
+    </item>
     
     <item>
       <title>Amgen Scholars National University of Singapore</title>
@@ -168,20 +243,6 @@ Website: Amgen Tokyo</description>
     </item>
     
     <item>
-      <title>CHSL Undergraduate Research Program</title>
-      <link>https://biointerns.github.io/posts/cshl/</link>
-      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://biointerns.github.io/posts/cshl/</guid>
-      <description>COLD SPRING HARBOR LABORATORY UNDERGRADUATE RESEARCH PROGRAM
-Where: New York, United States
-When: 10/06 - 08/08/2020
-Application Deadline: 15/01/2020
-Benefits: accommodation and travel costs are covered + 5500 DOLLARS for personal expenses
-Website: Cold Spring Harbor Laboratory</description>
-    </item>
-    
-    <item>
       <title>CNIO Summer Training Program</title>
       <link>https://biointerns.github.io/posts/cnio/</link>
       <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
@@ -280,34 +341,6 @@ Website: ISTernship</description>
     </item>
     
     <item>
-      <title>Janelia Undergraduate Scholars Program</title>
-      <link>https://biointerns.github.io/posts/janelia/</link>
-      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://biointerns.github.io/posts/janelia/</guid>
-      <description>JANELIA UNDERGRADUATE SCHOLARS PROGRAM
-Where: Virginia, United States
-When: 10 weeks (to be defined with host laboratory) between May and August, 2020
-Application Deadline: 07/01/2020
-Benefits: accommodation and travel costs are covered + 5000 DOLLARS for personal expenses
-Website: Janelia</description>
-    </item>
-    
-    <item>
-      <title>Stowers Summer Scholars</title>
-      <link>https://biointerns.github.io/posts/stowers/</link>
-      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://biointerns.github.io/posts/stowers/</guid>
-      <description>STOWERS INSTITUTE SUMMER SCHOLARS
-Where: Kansas City, United States
-When: 8/06 - 21/07/2020
-Application Deadline: 3/02/2020
-Benefits: accommodation and travel costs are covered + 4000 DOLLARS for personal expenses
-Website: Stowers</description>
-    </item>
-    
-    <item>
       <title>Unil Summer Undergraduate Research Programme</title>
       <link>https://biointerns.github.io/posts/unil/</link>
       <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
@@ -319,20 +352,6 @@ When: 6/07 - 28/08/2020
 Application Deadline: 23/01/2020
 Benefits: accommodation and travel costs are covered + 1500 CHF for personal expenses
 Website: Unil Summer Undergraduate Programme</description>
-    </item>
-    
-    <item>
-      <title>Vienna BioCenter Summer School</title>
-      <link>https://biointerns.github.io/posts/vienna/</link>
-      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://biointerns.github.io/posts/vienna/</guid>
-      <description>VIENNA BIOCENTER SUMMER SCHOOL
-Where: Vienna, Austria
-When: 26/06 - 28/08/2020
-Application Deadline: 31/01/2020
-Benefits: accommodation and travel costs are covered + 1400 EURO for personal expenses
-Website: Vienna BioCenter</description>
     </item>
     
   </channel>
