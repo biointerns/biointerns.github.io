@@ -6,10 +6,69 @@
     <description>Recent content on BioInterns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://biointerns.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>International Biology Undergraduate Summer School Zurich (2021)</title>
+      <link>https://biointerns.github.io/posts/buss/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://biointerns.github.io/posts/buss/</guid>
+      <description>INTERNATIONAL BIOLOGY UNDERGRADUATE SUMMER SCHOOL ZURICH (BUSS)
+Where: Zurich, Switzerland
+When: 01/07 - 31/08/2021
+Application Deadline: 15/02/2021
+Benefits: accommodation and travel expenses are covered
+Research areas:
+ Biochemistry Genetics Molecular, cell, developmental, behavioral, organismal, and systems biology Ecology Microbiology Neuroscience Physiology Biology of cancer Plant biology Systematics and evolution Structural biology Bioinformatics.  Website: BUSS</description>
+    </item>
+    
+    <item>
+      <title>Janelia Undergraduate Scholars Program (2021)</title>
+      <link>https://biointerns.github.io/posts/janelia/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://biointerns.github.io/posts/janelia/</guid>
+      <description>JANELIA UNDERGRADUATE SCHOLARS PROGRAM
+Where: Virginia, United States
+When: 10 weeks (to be defined with host laboratory) between May and August, 2021
+Application Deadline: 11/01/2021
+Benefits: accommodation and travel costs are covered + 5000 DOLLARS for personal expenses
+Research areas:
+ Behavioral &amp;amp; systems neuroscience Cellular &amp;amp; molecular neuroscience Evolution &amp;amp; genetics Instrumentation &amp;amp; computational tool development Neuronal cell biology Optical physics &amp;amp; imaging Structural biology &amp;amp; biochemistry Theory &amp;amp; computational neuroscience  Website: Janelia Farm</description>
+    </item>
+    
+    <item>
+      <title>Kupcinet-Getz International Summer School</title>
+      <link>https://biointerns.github.io/posts/weizmann/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://biointerns.github.io/posts/weizmann/</guid>
+      <description>Kupcinet-Getz International Summer School at the Weizmann Institute of Science
+Where: Rehovot, Israel
+When: TBA
+Application Deadline: TBA
+Benefits: accommodation costs are covered + 500 NIS/week for personal expenses
+Website: Kupcinet-Getz</description>
+    </item>
+    
+    <item>
+      <title>Vienna BioCenter Summer School (2021)</title>
+      <link>https://biointerns.github.io/posts/vienna/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://biointerns.github.io/posts/vienna/</guid>
+      <description>VIENNA BIOCENTER SUMMER SCHOOL
+Where: Vienna, Austria
+When: 01/07 - 31/08/2021
+Application Deadline: 31/01/2021
+Benefits: accommodation and travel costs are covered + 1400 EURO for personal expenses
+Research areas:
+ Molecular biology Neuroscience Immunology Bioinformatics RNA biology Stem cells Biochemistry  Website: Vienna BioCenter</description>
+    </item>
     
     <item>
       <title>CHSL Undergraduate Research Program (2021)</title>
@@ -42,21 +101,6 @@ Research areas:
     </item>
     
     <item>
-      <title>Janelia Undergraduate Scholars Program (2021)</title>
-      <link>https://biointerns.github.io/posts/janelia/</link>
-      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://biointerns.github.io/posts/janelia/</guid>
-      <description>JANELIA UNDERGRADUATE SCHOLARS PROGRAM
-Where: Virginia, United States
-When: 10 weeks (to be defined with host laboratory) between May and August, 2021
-Application Deadline: 07/01/2021
-Benefits: accommodation and travel costs are covered + 5000 DOLLARS for personal expenses
-Research areas:
- Behavioral &amp;amp; systems neuroscience Cellular &amp;amp; molecular neuroscience Evolution &amp;amp; genetics Instrumentation &amp;amp; computational tool development Neuronal cell biology Optical physics &amp;amp; imaging Structural biology &amp;amp; biochemistry Theory &amp;amp; computational neuroscience  Website: Janelia Farm</description>
-    </item>
-    
-    <item>
       <title>Stowers Summer Scholars (2021)</title>
       <link>https://biointerns.github.io/posts/stowers/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
@@ -69,21 +113,6 @@ Application Deadline: 01/02/2021
 Benefits: accommodation and travel costs are covered + 4000 DOLLARS for personal expenses
 Research areas:
  Chromatin &amp;amp; regulation of gene expression Chromosome structure &amp;amp; cell division Computational biology Modeling &amp;amp; technology Developmental genetics &amp;amp; cell biology Developmental neuroscience Neuroscience Stem cells &amp;amp; regeneration  Website: Stowers Institute</description>
-    </item>
-    
-    <item>
-      <title>Vienna BioCenter Summer School</title>
-      <link>https://biointerns.github.io/posts/vienna/</link>
-      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://biointerns.github.io/posts/vienna/</guid>
-      <description>VIENNA BIOCENTER SUMMER SCHOOL
-Where: Vienna, Austria
-When: 26/06 - 28/08/2020
-Application Deadline: 31/01/2020
-Benefits: accommodation and travel costs are covered + 1400 EURO for personal expenses
-Research areas:
- Molecular biology Neuroscience Immunology Bioinformatics RNA biology Stem cells Biochemistry  Website: Vienna BioCenter</description>
     </item>
     
     <item>
@@ -296,20 +325,6 @@ When: 18/06 - 21/08/2020
 Application Deadline: 31/01/2020
 Benefits: accommodation and travel costs are covered
 Website: RIKEN</description>
-    </item>
-    
-    <item>
-      <title>International Biology Undergraduate Summer School Zurich</title>
-      <link>https://biointerns.github.io/posts/buss/</link>
-      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://biointerns.github.io/posts/buss/</guid>
-      <description>INTERNATIONAL BIOLOGY UNDERGRADUATE SUMMER SCHOOL ZURICH (BUSS)
-Where: Zurich, Switzerland
-When: 01/07 - 31/08/2020
-Application Deadline: 01/03/2020
-Benefits: accommodation and travel expenses are covered
-Website: BUSS</description>
     </item>
     
     <item>
