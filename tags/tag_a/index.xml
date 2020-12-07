@@ -42,20 +42,6 @@ Research areas:
     </item>
     
     <item>
-      <title>Kupcinet-Getz International Summer School</title>
-      <link>https://biointerns.github.io/posts/weizmann/</link>
-      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://biointerns.github.io/posts/weizmann/</guid>
-      <description>Kupcinet-Getz International Summer School at the Weizmann Institute of Science
-Where: Rehovot, Israel
-When: TBA
-Application Deadline: TBA
-Benefits: accommodation costs are covered + 500 NIS/week for personal expenses
-Website: Kupcinet-Getz</description>
-    </item>
-    
-    <item>
       <title>Vienna BioCenter Summer School (2021)</title>
       <link>https://biointerns.github.io/posts/vienna/</link>
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
@@ -367,6 +353,20 @@ When: 6/07 - 28/08/2020
 Application Deadline: 23/01/2020
 Benefits: accommodation and travel costs are covered + 1500 CHF for personal expenses
 Website: Unil Summer Undergraduate Programme</description>
+    </item>
+    
+    <item>
+      <title>Kupcinet-Getz International Summer School</title>
+      <link>https://biointerns.github.io/posts/weizmann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biointerns.github.io/posts/weizmann/</guid>
+      <description>Kupcinet-Getz International Summer School at the Weizmann Institute of Science
+Where: Rehovot, Israel
+When: TBA
+Application Deadline: TBA
+Benefits: accommodation costs are covered + 500 NIS/week for personal expenses
+Website: Kupcinet-Getz</description>
     </item>
     
   </channel>
