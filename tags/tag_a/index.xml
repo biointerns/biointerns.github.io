@@ -6,10 +6,85 @@
     <description>Recent content in tag_a on BioInterns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://biointerns.github.io/tags/tag_a/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Biozentrum Research Summer</title>
+      <link>https://biointerns.github.io/posts/biozentrum/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://biointerns.github.io/posts/biozentrum/</guid>
+      <description>BIOZENTRUM RESEARCH SUMMER
+Where: Basel, Switzerland
+When: 7 to 9 weeks between July to September 2021
+Application Deadline: 28/02/2021
+Benefits: 1450 CHF/month
+Research areas:
+ Growth &amp;amp; Development Infection Biology Neurobiology Structural Biology &amp;amp; Biophysics Computational &amp;amp; Systems Biology  Website: BioZentrum</description>
+    </item>
+    
+    <item>
+      <title>CRG Summer Internship Programme</title>
+      <link>https://biointerns.github.io/posts/crg/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://biointerns.github.io/posts/crg/</guid>
+      <description>CENTRE FOR GENOMIC REGULATION SUMMER INTERNSHIP PROGRAMME
+Where: Barcelona, Spain
+When: eight weeks between July and September 2021
+Application Deadline: 08/03/2021
+Benefits: travel costs are covered + 400 EURO for accommodation and personal expenses
+Research areas:
+ Bioinformatics &amp;amp; Genomics Cell &amp;amp; Developmental Biology Gene regulation, Stem cells &amp;amp; Cancer Systems Biology  Website: CRG Summer Internship</description>
+    </item>
+    
+    <item>
+      <title>ISTernship Summer Program</title>
+      <link>https://biointerns.github.io/posts/ist/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://biointerns.github.io/posts/ist/</guid>
+      <description>SUMMER PROGRAM at the INSTITUTE OF SCIENCE AND TECHNOLOGY AUSTRIA
+Where: Vienna, Austria
+When: from 8 to 12 weeks (to be defined with host laboratory) between 15/05/2021 and 15/09/2021
+Application Deadline: 15/02/2021
+Benefits: accommodation and travel costs are covered + stipend for personal expenses (the website does not specify how much)
+Research areas:
+ Biology Computer Science Data Science &amp;amp; Scientific Computing Neuroscience Physics Mathematics  Website: ISTernship</description>
+    </item>
+    
+    <item>
+      <title>nanoGUNE Summer Internship</title>
+      <link>https://biointerns.github.io/posts/nanogune/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://biointerns.github.io/posts/nanogune/</guid>
+      <description>nanoGUNE Summer Internship
+Where: San Sebastian, Spain
+When: 6 to 8 weeks during the Summer
+Application Deadline: 14/02/2021
+Benefits: 500 EUR / month for accommodation and personal expenses
+Research areas:
+ Optics at the Nanoscale Nanobioengineering Electronic Phenomena and Magnetism Nanoscale Materials  Website: nanoGUNE</description>
+    </item>
+    
+    <item>
+      <title>Unil Summer Undergraduate Research Programme</title>
+      <link>https://biointerns.github.io/posts/unil/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://biointerns.github.io/posts/unil/</guid>
+      <description>UNIVERSITY OF LAUSANNE SUMMER UNDERGRADUATE RESEARCH PROGRAMME
+Where: Lausanne, Switzerland
+When: 5/07 - 27/08/2021
+Application Deadline: 31/01/2021
+Benefits: accommodation and travel costs are covered + 1500 CHF for personal expenses
+Research areas:
+ Integrative Genomics Biochemistry Computational Biology Ecology &amp;amp; Evolution Microbiology Neuroscience Plant Molecular Biology Physiology  Website: Unil Summer Undergraduate Programme</description>
+    </item>
     
     <item>
       <title>International Biology Undergraduate Summer School Zurich (2021)</title>
@@ -144,20 +219,6 @@ Website: Amgen China</description>
     </item>
     
     <item>
-      <title>Biozentrum Research Summer</title>
-      <link>https://biointerns.github.io/posts/biozentrum/</link>
-      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://biointerns.github.io/posts/biozentrum/</guid>
-      <description>BIOZENTRUM RESEARCH SUMMER
-Where: Basel, Switzerland
-When: 7 to 9 weeks between July to September 2020
-Application Deadline: 28/02/2020
-Benefits: 1450 CHF/month
-Website: BioZentrum</description>
-    </item>
-    
-    <item>
       <title>BSC International Summer HPC Internship Programme</title>
       <link>https://biointerns.github.io/posts/bsc_hpc/</link>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
@@ -170,21 +231,6 @@ When: 10 weeks between June and September 2020
 Application Deadline: TBA, but usually around mid-April
 Benefits: 1350 EUR / month for accommodation and personal expenses
 Website: BSC HPC</description>
-    </item>
-    
-    <item>
-      <title>nanoGUNE Summer Internship</title>
-      <link>https://biointerns.github.io/posts/nanogune/</link>
-      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://biointerns.github.io/posts/nanogune/</guid>
-      <description>nanoGUNE Summer Internship
-Research at nanoGUNE is primarily centered around 4 core themes:
- Electron/Spin phenomena and magnetism; Optics at the nanoscale; Nanoscale materials; Nanobioengineering  Where: San Sebastian, Spain
-When: 6 to 8 weeks during the Summer
-Application Deadline: 16/02/2020
-Benefits: 500 EUR / month for accommodation and personal expenses
-Website: nanoGUNE</description>
     </item>
     
     <item>
@@ -286,20 +332,6 @@ Website*: CNIO Summer Training</description>
     </item>
     
     <item>
-      <title>CRG Summer Internship Programme</title>
-      <link>https://biointerns.github.io/posts/crg/</link>
-      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://biointerns.github.io/posts/crg/</guid>
-      <description>CENTRE FOR GENOMIC REGULATION SUMMER INTERNSHIP PROGRAMME
-Where: Barcelona, Spain
-When: TBA
-Application Deadline: TBA
-Benefits: travel costs are covered + 400 EURO for accommodation and personal expenses
-Website: CRG Summer Internship</description>
-    </item>
-    
-    <item>
       <title>EPFL Summer Research Program</title>
       <link>https://biointerns.github.io/posts/epfl/</link>
       <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
@@ -339,34 +371,6 @@ When: 12/08 - 20/09/2020
 Application Deadline: TBA
 Benefits: accommodation and travel costs are covered
 Website: ISS Mainz</description>
-    </item>
-    
-    <item>
-      <title>ISTernship Summer Program</title>
-      <link>https://biointerns.github.io/posts/ist/</link>
-      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://biointerns.github.io/posts/ist/</guid>
-      <description>SUMMER PROGRAM at the INSTITUTE OF SCIENCE AND TECHNOLOGY AUSTRIA
-Where: Vienna, Austria
-When: from 8 to 12 weeks (to be defined with host laboratory) between 15/05/2020 and 15/09/2020
-Application Deadline: 01/02/2020
-Benefits: accommodation and travel costs are covered + stipend for personal expenses (the website does not specify how much)
-Website: ISTernship</description>
-    </item>
-    
-    <item>
-      <title>Unil Summer Undergraduate Research Programme</title>
-      <link>https://biointerns.github.io/posts/unil/</link>
-      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://biointerns.github.io/posts/unil/</guid>
-      <description>UNIVERSITY OF LAUSANNE SUMMER UNDERGRADUATE RESEARCH PROGRAMME
-Where: Lausanne, Switzerland
-When: 6/07 - 28/08/2020
-Application Deadline: 23/01/2020
-Benefits: accommodation and travel costs are covered + 1500 CHF for personal expenses
-Website: Unil Summer Undergraduate Programme</description>
     </item>
     
   </channel>
