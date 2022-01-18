@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CRG Summer Internship Programme (2021)
+title: CRG Summer Internship Programme
 img: crg200.png
 tags: ["tag_a", "tag_b"]
 date: 2022-01-16

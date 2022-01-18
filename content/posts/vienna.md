@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vienna BioCenter Summer School (2021)
+title: Vienna BioCenter Summer School
 img: vienna.png
 tags: ["tag_a", "tag_b"]
 date: 2022-01-16

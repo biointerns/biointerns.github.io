@@ -1,6 +1,6 @@
 ---
 layout: post
-title: International Biology Undergraduate Summer School Zurich (2021)
+title: International Biology Undergraduate Summer School Zurich
 img: utz.png
 tags: ["tag_a", "tag_b"]
 date: 2022-01-16

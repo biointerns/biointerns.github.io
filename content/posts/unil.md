@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unil Summer Undergraduate Research Programme (2021)
+title: Unil Summer Undergraduate Research Programme
 img: unil200.png
 tags: ["tag_a", "tag_b"]
 date: 2022-01-16

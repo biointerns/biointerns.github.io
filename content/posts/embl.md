@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EMBL Undergraduate Internships (2021)
+title: EMBL Undergraduate Internships
 img: embl200.png
 tags: ["tag_a", "tag_b"]
 date: 2022-01-16

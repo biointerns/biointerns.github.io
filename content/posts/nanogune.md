@@ -1,6 +1,6 @@
 ---
 layout: post
-title: nanoGUNE Summer Internship (2021)
+title: nanoGUNE Summer Internship
 img: nanogune200.jpg
 tags: ["tag_a", "tag_b"]
 date: 2022-01-16

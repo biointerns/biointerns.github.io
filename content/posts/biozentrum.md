@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Biozentrum Research Summer (2021)  
+title: Biozentrum Research Summer 
 img: bio200.png
 tags: ["tag_a", "tag_b"]
 date: 2022-01-16

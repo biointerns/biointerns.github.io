@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ISTernship Summer Program (2021)
+title: ISTernship Summer Program
 img: ist_logo200.jpg
 tags: ["tag_a", "tag_b"]
 date: 2022-01-16

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Janelia Undergraduate Scholars Program (2021)
+title: Janelia Undergraduate Scholars Program
 img: janelia200.png
 tags: ["tag_a", "tag_b"]
 date: 2022-01-16
