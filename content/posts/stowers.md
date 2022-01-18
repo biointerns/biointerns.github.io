@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stowers Summer Scholars (2021)
+title: Stowers Summer Scholars
 img: stowers200.jpg
 tags: ["tag_a", "tag_b"]
 date: 2022-01-16
