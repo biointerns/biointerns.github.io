@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Stowers Summer Scholars (2021)
+title: Stowers Summer Scholars (2025)
 img: stowers200.jpg
 tags: ["tag_a", "tag_b"]
-date: 2022-01-16
+date: 2024-09-14
 ---
 
 **STOWERS INSTITUTE SUMMER SCHOLARS**
