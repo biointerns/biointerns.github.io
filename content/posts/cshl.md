@@ -23,5 +23,6 @@ date: 2024-09-16
  * Plant biology 
  * Quantitative biology 
 
-**Website**: [Cold Spring Harbor Laboratory](https://www.cshl.edu/education/undergraduate-research-program/){:target="_blank"}
+**Website**: <a href="https://www.cshl.edu/education/undergraduate-research-program/" target="_blank">Cold Spring Harbor Laboratory</a>
+
 
