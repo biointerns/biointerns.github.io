@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHSL Undergraduate Research Program (2025)
-img: cshl200.png
+img: cshl_alt.png
 tags: ["tag_a", "tag_b"]
 date: 2024-09-16
 ---
