@@ -14,7 +14,7 @@ date: 2024-09-14
 
 **Application Deadline**: 17/01/2025 
 
-**Benefits**: accommodation and travel costs are covered + 4000 DOLLARS for personal expenses
+**Benefits**: accommodation and travel costs are covered + 5000 DOLLARS for personal expenses
 
 **Research areas**: 
  * Chromatin & regulation of gene expression 
