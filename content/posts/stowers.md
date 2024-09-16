@@ -26,5 +26,5 @@ date: 2024-09-14
  * Neuroscience 
  * Stem cells & regeneration
 
-**Website**: [Stowers Institute](https://www.stowers.org/gradschool/scholars){:target="_blank"}
+**Website**: [Stowers Institute](https://www.stowers.org/gradschool/scholars)
 
