@@ -1,12 +1,11 @@
 ---
 layout: post
-title: EMBL Undergraduate Internships
+title: EMBL Undergraduate Internships (2025)
 img: embl_biointerns.png
-tags: ["tag_a", "tag_b"]
-date: 2024-09-16
+date: 2024-09-22
 ---
 
-**EMBL Undergraduate Internships**
+**EMBL Undergraduate Internships (2025)**
 
 **Where**: Any EMBL site: Heidelberg, Germany; Grenoble, France; Hinxton, United Kingdom; Monterotondo, Italy; Barcelona, Spain; Hamburg, Germany.   
 

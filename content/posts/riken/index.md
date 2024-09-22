@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IBRO/RIKEN Summer Program 
+title: IBRO/RIKEN Summer Program (2025) 
 img: riken_biointerns.png
 date: 2024-09-22
 ---
