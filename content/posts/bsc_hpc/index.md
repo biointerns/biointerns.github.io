@@ -1,12 +1,10 @@
 ---
 layout: post
 title: BSC International Summer HPC Internship Programme
-img: bsc200.jpg
-tags: ["tag_a", "tag_b"]
-date: 2022-01-16
+img: bsc_biointerns.jpg
 ---
 
-**Barcelona Supercomputing Center International Summer High Performance Computing Internship Programme**
+**Barcelona Supercomputing Center International Summer High Performance Computing Internship Programme (2025)**
 
 The interns will carry out research in one of BSC’s departments (Computer Sciences, Computer Application in Science and Engineering, Earth Sciences and Life Sciences). 
 

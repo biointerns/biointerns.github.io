@@ -1,12 +1,10 @@
 ---
 layout: post
 title: CRG Summer Internship Programme
-img: crg200.png
-tags: ["tag_a", "tag_b"]
-date: 2022-01-16
+img: crg_biointerns.png
 ---
 
-**CENTRE FOR GENOMIC REGULATION SUMMER INTERNSHIP PROGRAMME**
+**CENTRE FOR GENOMIC REGULATION SUMMER INTERNSHIP PROGRAMME (2025)**
 
 **Where**: Barcelona, Spain
 

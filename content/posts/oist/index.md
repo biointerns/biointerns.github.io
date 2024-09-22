@@ -2,8 +2,6 @@
 layout: post
 title: OIST Research Internship Program
 img: oist_biointerns.png 
-tags: ["tag_a", "tag_b"]
-date: 2024-09-16
 ---
 
 **Okinawa Institute of Science and Technology Research Internship Program**

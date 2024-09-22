@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Amgen Scholars Institut Pasteur
-img: pasteur200.png
-tags: ["tag_a", "tag_b"]
-date: 2022-01-16
+title: Amgen Scholars Institut Pasteur (2025)
+img: pasteur_biointerns.png
 ---
 
 **AMGEN SCHOLARS PROGRAM at INSTITUT PASTEUR**
