@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IBRO/RIKEN Summer Program 
-img: riken200.png
+img: riken_biointerns.png
 tags: ["tag_a", "tag_b"]
 date: 2024-09-16
 ---

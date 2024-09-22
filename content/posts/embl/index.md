@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EMBL Undergraduate Internships
-img: embl200.png
+img: embl_biointerns.png
 tags: ["tag_a", "tag_b"]
 date: 2024-09-16
 ---
