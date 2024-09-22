@@ -1,11 +1,13 @@
 {{ define "main" }}
-<div class="row">
-<div class="col-md-8">
+<div class="row main-body">
+<div class="col-md-8 post-wrapper">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-          <header class="post-header">
-            <h1 class="post-title" style="text-decoration: none;" itemprop="name headline">{{ .Title }}</h1>
+          <header class="post-header post-header-base">
+            <h1 class="post-title" itemprop="name headline">{{ .Title }}</h1>
+            {{ if not .Site.Params.post.meta.isHidden }}
             <p class="post-meta"><time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}' itemprop="datePublished">{{ .Date.Format "January 2, 2006" }}</time>{{ with .Params.Author }} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ . }}</span></span>{{ end }}</p>
+            {{ end }}
                  
           </header>
 
@@ -22,16 +24,22 @@
     
     <div class="row">
             <ul class="pager">
-             {{ with .NextPage }}
+             {{ with .Page.Next }}
                     <li><a class="next" href="{{ .Permalink }}">&laquo; {{ .Title }}</a></li>
               {{ end }}
-              {{ with .PrevPage }}
+              {{ with .Page.Prev }}
                 <li><a class="previous" href="{{ .Permalink }}">{{ .Title }} &raquo;</a></li>
               {{ end }}
             </ul>
     </div>
 </div>
-{{ partial "sidebar.html" . }}
+
+{{ if eq .Site.Params.post.sidebar.type "profile" }}
+    {{ partial "sidebar-profile.html" . }}
+{{ else }}
+    {{ partial "sidebar.html" . }}
+{{ end }}
+
 </div>
 
 

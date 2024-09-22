@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
   {{ partial "head.html" .}}
 
   <body style="background-color: #e6f2ff; font-size: 20px;">
@@ -15,7 +16,7 @@
     {{ partial "footer.html" . }}    
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-  <script src="{{ .Site.BaseURL }}/js/bootstrap.min.js"></script>
+  <script src="{{ .Site.BaseURL }}js/bootstrap.min.js"></script>
   {{ with .Site.Params.analytics }} 
     {{ partial "analytics.html" . }}
   {{ end }}

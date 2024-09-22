@@ -1,10 +1,10 @@
 {{ define "main" }}
 <div class="row">
-<div class="col-md-12">
+<div class="col-md-8">
 <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title" style="text-decoration: none;">{{ .Title }}</h1>
+    <h1 class="post-title">{{ .Title }}</h1>
   </header>
 
   <div class="post-content">
@@ -13,6 +13,7 @@
 
 </article>
 </div>
+{{ partial "sidebar.html" . }}
 </div>
 
 {{ partial "fb-script.html" . }}

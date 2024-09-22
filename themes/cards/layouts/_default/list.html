@@ -1,10 +1,6 @@
 {{ define "main" }}
 
 <div class="home">
-
-    <div class = "container text-center">
-      {{ .Site.Params.description }}
-    </div>
  
   
     <div class="row pack">
@@ -12,27 +8,25 @@
         {{ $paginator := .Paginate (where .Site.RegularPages "Section" "posts") }}
         {{ range $paginator.Pages }}   
             <div class="col-md-4 card">
-             <a href="{{ .RelPermalink }}" class="index-anchor">    
+             <a href="{{ .Permalink }}" class="index-anchor">    
                 <div class="panel panel-default">
                   
                   {{ if .Params.img }}
-                  <img width="100%" src="/images/{{ .Params.img }}" alt="{{ .Title }}">
+                  {{ with .Resources.Match .Params.img }}
+                    {{ range . }}
+                      <img width="100%" src="{{ .RelPermalink }}" alt="{{ .Title }}">
+                    {{ end }}
+                  {{ end }}
                   {{ else }}
-                  <img width="100%" src="/images/{{ .Site.Params.defaultImage }}" alt="{{ .Site.Title }}">
+                  <img width="100%" src="{{ .Site.BaseURL }}images/{{ .Site.Params.defaultImage }}" alt="{{ .Site.Title }}">
                   {{ end }}
                   
                   <div class="panel-body">
-                    <h3 class="panel-title text-center" style="height: 45px;">{{ .Title }}</h3>
-                    <!--
-                    <span class="panel-meta pull-right">
-                      <small>{{ .Date.Format "January 2, 2006" }}</small>
-                    </span>
-                    -->
+                    <h3 class="panel-title pull-left">{{ .Title | truncate 25 }}</h3><span class="post-meta pull-right"><small>{{ .Date.Format "January 2, 2006" }}</small></span>
                   </div>
                   
-                  <div class="panel-body">
-                    <!-- <small>{{ .Summary | truncate 100 }}</small> -->
-                    <!-- <small>{{ .Params.description | truncate 100 }}</small> -->
+                  <div class="panel-body"><small>
+                    {{ .Summary | plainify | truncate 180 }}</small>
                   </div>
                 </div>
                 </a>
