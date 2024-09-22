@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "BioInterns"
 theme = "cards"
 
+# Uncomment this to test locally
+#relativeURLs = true
 
 # quanti vuoi vederne per ogni pagina
 # 6 vuol dire tipo 2 righe, con 3 cards per riga
@@ -16,7 +18,7 @@ paginate = 48
   #facebook = ""
   #quora = ""
   twitter = "http://twitter.com/vlorenzi3"
-  #github = "http://github.com/bul-ikana"
+  github = "https://github.com/biointerns/biointerns.github.io"
   #email = ""
 
   fbLikeBox = ""
@@ -24,7 +26,7 @@ paginate = 48
   fbPageUrl = ""
   fbPageTitle = ""
 
-  analytics = "UA-152627751-1"
+  #analytics = "UA-152627751-1"
   disqus = ""
   color = "ocean"
   font = "classic"
