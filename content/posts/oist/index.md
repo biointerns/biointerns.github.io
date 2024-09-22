@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OIST Research Internship Program
-img: 
+img: oist_biointerns.png 
 tags: ["tag_a", "tag_b"]
 date: 2024-09-16
 ---
