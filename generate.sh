@@ -2,7 +2,7 @@
 
 rm -rf docs
 
-hugo
+../hugo
 
 mv public docs
 
