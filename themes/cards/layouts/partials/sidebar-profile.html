@@ -1,0 +1,46 @@
+<div class="col-md-4 mt20 sidebar-profile">
+
+        <header class="sidebar-profile-header">
+          <h1 class="post-title" itemprop="name headline">{{ .Title }}</h1>
+            {{ if not .Site.Params.post.meta.isHidden }}
+            <p class="post-meta"><time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}' itemprop="datePublished">{{
+                .Date.Format "January 2, 2006" }}</time>{{ with .Params.Author }} • <span itemprop="author" itemscope
+                itemtype="http://schema.org/Person"><span itemprop="name">{{ . }}</span></span>{{ end }}</p>
+            {{ end }}
+        </header>
+
+        <div class="post-img">
+            {{ if .Params.img }}
+            {{ with .Resources.Match .Params.img }}
+              {{ range . }}
+                <img width="100%" src="{{ .RelPermalink }}" alt="{{ .Title }}">
+              {{ end }}
+            {{ end }}
+            {{ else }}
+            <img width="600" src="{{ .Site.BaseURL }}images/{{ .Site.Params.defaultImage }}" alt="webjeda">
+            {{ end }}
+        </div>
+            
+        
+        <div class="mt10 sidebar-profile-content">
+            {{ if .Site.Params.post.sidebar.title }}
+            <h2>{{ .Site.Params.post.sidebar.title }}</h2>        
+            {{ else }}
+            <h2>Profile</h2>
+            {{ end }}
+             <ul>
+                {{ range .Params.profile.attrs }}
+                    <li>
+                        <p><strong>{{ .key }}:</strong> {{ .val }}</p>
+                    </li>
+                {{ end }}
+              </ul>
+        </div>
+        {{ if .Site.Params.fbLikeBox }}
+        <div class="mt10">
+            <div class="fb-page" data-href="https://www.facebook.com/webjeda/" data-width="400" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/webjeda/" class="fb-xfbml-parse-ignore"><a href="{site.fb-page-url}}">{{ .Site.Params.fbPageTitle}}</a></blockquote></div>
+        </div>
+        {{ end }}
+        <br>
+
+</div>

@@ -6,7 +6,17 @@
 <title>{{ .Title}}{{if .IsPage}} - {{.Site.Title}}{{ end }}</title>
 {{partial "seo.html" .}}
 
-{{ $main := resources.Get "sass/main.scss" | resources.ToCSS (dict "outputStyle" "compressed")}}
+{{ $main := resources.Get "sass/main.scss" | toCSS (dict "outputStyle" "compressed")}}
 <link rel="stylesheet" href="{{ $main.RelPermalink }}">
+
+<!-- Sidebar Profile -->
+{{ if eq .Site.Params.post.sidebar.type "profile" }}
+{{ $sidebarProfile := resources.Get "sass/sidebar-profile.scss" | toCSS (dict "outputStyle" "compressed")}}
+<link rel="stylesheet" href="{{ $sidebarProfile.RelPermalink }}">
+{{ end }}
+
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+{{ range .Site.Params.custom_css -}}
+    <link rel="stylesheet" href="/{{ . }}">
+{{- end }}
 </head>
