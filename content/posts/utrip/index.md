@@ -1,9 +1,8 @@
 ---
 layout: post
-title: University of Tokyo Research Internship Program (UTRIP)
+title: University of Tokyo Research Internship Program (UTRIP 2025)
 img: utrip_biointerns.png 
-tags: ["tag_a", "tag_b"]
-date: 2024-09-16
+date: 2024-09-22
 ---
 
 **University of Tokyo Research Internship Program (2025)**

@@ -2,16 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://biointerns.github.io/posts/amgen_paris/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://biointerns.github.io/</loc>
-    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biointerns.github.io/posts/bsc_hpc/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://biointerns.github.io/posts/cshl/</loc>
-    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://biointerns.github.io/posts/embl/</loc>
-    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+    <loc>https://biointerns.github.io/posts/crg/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biointerns.github.io/posts/riken/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biointerns.github.io/posts/oist/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://biointerns.github.io/posts/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biointerns.github.io/posts/utrip/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biointerns.github.io/posts/embl/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://biointerns.github.io/tags/tag_a/</loc>
@@ -21,9 +39,6 @@
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://biointerns.github.io/tags/</loc>
-    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://biointerns.github.io/posts/utrip/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://biointerns.github.io/posts/stowers/</loc>
@@ -83,23 +98,13 @@
     <loc>https://biointerns.github.io/posts/vienna/</loc>
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://biointerns.github.io/posts/amgen_paris/</loc>
-  </url><url>
     <loc>https://biointerns.github.io/pages/about/</loc>
-  </url><url>
-    <loc>https://biointerns.github.io/posts/bsc_hpc/</loc>
   </url><url>
     <loc>https://biointerns.github.io/categories/</loc>
   </url><url>
     <loc>https://biointerns.github.io/pages/contact/</loc>
   </url><url>
-    <loc>https://biointerns.github.io/posts/crg/</loc>
-  </url><url>
     <loc>https://biointerns.github.io/pages/faqs/</loc>
-  </url><url>
-    <loc>https://biointerns.github.io/posts/riken/</loc>
-  </url><url>
-    <loc>https://biointerns.github.io/posts/oist/</loc>
   </url><url>
     <loc>https://biointerns.github.io/pages/</loc>
   </url>

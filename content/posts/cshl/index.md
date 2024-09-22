@@ -2,11 +2,10 @@
 layout: post
 title: CHSL Undergraduate Research Program (2025)
 img: cshl_alt3.png
-tags: ["tag_a", "tag_b"]
-date: 2024-09-16
+date: 2024-09-22
 ---
 
-**COLD SPRING HARBOR LABORATORY UNDERGRADUATE RESEARCH PROGRAM**
+**COLD SPRING HARBOR LABORATORY UNDERGRADUATE RESEARCH PROGRAM (2025)**
 
 **Where**: New York, United States
 

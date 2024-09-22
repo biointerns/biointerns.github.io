@@ -1,7 +1,8 @@
 ---
 layout: post
-title: CRG Summer Internship Programme
+title: CRG Summer Internship Programme (2025)
 img: crg_biointerns.png
+date: 2024-09-22
 ---
 
 **CENTRE FOR GENOMIC REGULATION SUMMER INTERNSHIP PROGRAMME (2025)**

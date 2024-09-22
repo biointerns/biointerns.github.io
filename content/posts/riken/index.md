@@ -2,6 +2,7 @@
 layout: post
 title: IBRO/RIKEN Summer Program 
 img: riken_biointerns.png
+date: 2024-09-22
 ---
 
 **RIKEN CENTER FOR BRAIN SCIENCE SUMMER PROGRAM (2025)**

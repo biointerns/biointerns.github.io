@@ -2,9 +2,10 @@
 layout: post
 title: Amgen Scholars Institut Pasteur (2025)
 img: pasteur_biointerns.png
+date: 2024-09-22
 ---
 
-**AMGEN SCHOLARS PROGRAM at INSTITUT PASTEUR**
+**AMGEN SCHOLARS PROGRAM at INSTITUT PASTEUR (2025)**
 
 **Where**: Paris, France
 

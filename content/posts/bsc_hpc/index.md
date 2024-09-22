@@ -1,7 +1,8 @@
 ---
 layout: post
-title: BSC International Summer HPC Internship Programme
-img: bsc_biointerns.jpg
+title: BSC International Summer HPC Internship Programme (2025)
+img: bsc_biointerns.png
+date: 2024-09-22
 ---
 
 **Barcelona Supercomputing Center International Summer High Performance Computing Internship Programme (2025)**
