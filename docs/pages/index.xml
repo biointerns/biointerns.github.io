@@ -6,41 +6,27 @@
     <description>Recent content in Pages on BioInterns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://biointerns.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://biointerns.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biointerns Project</title>
       <link>https://biointerns.github.io/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://biointerns.github.io/pages/about/</guid>
-      <description>Hi! Here is a brief introduction to the project BioInterns.
-Why BioInterns?  Aim: We want to inform university students of Biology/Biotechnology (but not only!) about the opportunities to do research during the Summer period in prestigious universities all over the world. All opportunities offered on BioInterns are paid.
-  How it all started: Many students in Biology/Biotechnology can&amp;rsquo;t wait to gain first hand research experience. Unfortunately, practical courses in a degree course usually involve overcrowded teaching laboratories where it is difficult to understand what doing scientific research actually entails.</description>
+      <description>Hi! Here is a brief introduction to the project BioInterns.&#xA;Why BioInterns?&#xA;Aim: We want to inform university students of Biology/Biotechnology (but not only!) about the opportunities to do research during the Summer period in prestigious universities all over the world. All opportunities offered on BioInterns are paid.&#xA;How it all started: Many students in Biology/Biotechnology can&amp;rsquo;t wait to gain first hand research experience. Unfortunately, practical courses in a degree course usually involve overcrowded teaching laboratories where it is difficult to understand what doing scientific research actually entails.</description>
     </item>
-    
     <item>
       <title>Contacts</title>
       <link>https://biointerns.github.io/pages/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://biointerns.github.io/pages/contact/</guid>
-      <description>Do you know other internship opportunitiesabroad which we could include in BioInterns?
-Do you have questionsregarding what is advertised on this website?
-Would you like to give us adviceto improve BioInterns?
-Fill in this form and we will do our best to get back to you as soon as possible! Questions/Advice</description>
+      <description>Do you know other internship opportunities abroad which we could include in BioInterns?&#xA;Do you have questions regarding what is advertised on this website?&#xA;Would you like to give us advice to improve BioInterns?&#xA;Fill in this form and we will do our best to get back to you as soon as possible! Questions/Advice</description>
     </item>
-    
     <item>
       <title>FAQs</title>
       <link>https://biointerns.github.io/pages/faqs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://biointerns.github.io/pages/faqs/</guid>
       <description>If this is your first time approaching the world of science internships abroad, you may have plenty of doubts and questions about how they work. Please contact us and tell us what kind of questions you would like us to answer in the Frequently Asked Questions section of BioInterns! We look forward to hearing from you.</description>
     </item>
-    
   </channel>
 </rss>
