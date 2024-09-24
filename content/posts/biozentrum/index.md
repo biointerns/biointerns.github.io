@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Biozentrum Research Summer 
-img: bio200.png
-tags: ["tag_a", "tag_b"]
-date: 2022-01-16
+title: Biozentrum Research Summer (2025) 
+img: biozentrum_biointerns.png
+date: 2024-09-24
 ---
 
-**BIOZENTRUM RESEARCH SUMMER**
+**BIOZENTRUM RESEARCH SUMMER (2025)**
 
 **Where**: Basel, Switzerland 
 

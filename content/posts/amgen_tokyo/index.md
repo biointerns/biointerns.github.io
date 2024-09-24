@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Amgen Scholars University of Tokyo 
-img: tokyo200.png
-tags: ["tag_a", "tag_b"]
-date: 2022-01-16
+title: Amgen Scholars University of Tokyo (2025) 
+img: tokyo_amgen_biointerns.png
+date: 2024-09-24
 ---
 
-**AMGEN SCHOLARS PROGRAM at the UNIVERSITY OF TOKYO**
+**AMGEN SCHOLARS PROGRAM at the UNIVERSITY OF TOKYO (2025)**
 
 **Where**: Tokyo, Japan  
 
