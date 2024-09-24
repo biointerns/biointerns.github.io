@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Amgen Scholars National University of Singapore 
-img: nus200.jpg
-tags: ["tag_a", "tag_b"]
-date: 2022-01-16
+title: Amgen Scholars National University of Singapore (2025) 
+img: nus_biointerns.jpg
+date: 2024-09-24
 ---
 
-**AMGEN SCHOLARS PROGRAM at the NATIONAL UNIVERSITY of SINGAPORE**
+**AMGEN SCHOLARS PROGRAM at the NATIONAL UNIVERSITY of SINGAPORE (2025)**
 
 **Where**: Singapore  
 

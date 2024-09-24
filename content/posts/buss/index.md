@@ -1,12 +1,11 @@
 ---
 layout: post
-title: International Biology Undergraduate Summer School Zurich
-img: utz.png
-tags: ["tag_a", "tag_b"]
-date: 2022-01-16
+title: International Biology Undergraduate Summer School Zurich (2025)
+img: buss_biointerns.png
+date: 2024-09-24
 ---
 
-**INTERNATIONAL BIOLOGY UNDERGRADUATE SUMMER SCHOOL ZURICH (BUSS)**
+**INTERNATIONAL BIOLOGY UNDERGRADUATE SUMMER SCHOOL ZURICH (BUSS 2025)**
 
 **Where**: Zurich, Switzerland
 
