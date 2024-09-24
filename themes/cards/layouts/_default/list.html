@@ -2,7 +2,11 @@
 
 <div class="home">
  
-  
+    <div class = "container text-center">
+      {{ .Site.Params.description }}
+    </div>
+
+
     <div class="row pack">
 
         {{ $paginator := .Paginate (where .Site.RegularPages "Section" "posts") }}
