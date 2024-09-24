@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Amgen Scholars Kyoto University
-img: kyoto200.png
-tags: ["tag_a", "tag_b"]
-date: 2022-01-16
+title: Amgen Scholars Kyoto University (2025)
+img: kyoto_biointerns.png
+date: 2024-09-24
 ---
 
-**AMGEN SCHOLARS PROGRAMM at KYOTO UNIVERSITY**
+**AMGEN SCHOLARS PROGRAMME at KYOTO UNIVERSITY (2025)**
 
 **Where**: Kyoto, Japan  
 

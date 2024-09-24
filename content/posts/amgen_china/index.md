@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Amgen Scholars Tsinghua University 
-img: china200.png
-tags: ["tag_a", "tag_b"]
-date: 2022-01-16
+title: Amgen Scholars Tsinghua University (2025) 
+img: tsinghua_biointerns.png
+date: 2024-09-24
 ---
 
-**AMGEN SCHOLARS PROGRAM at the TSINGHUA UNIVERSITY**
+**AMGEN SCHOLARS PROGRAMME at the TSINGHUA UNIVERSITY (2025)**
 
 **Where**: Beijing, China  
 

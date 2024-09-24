@@ -1,12 +1,11 @@
 ---
 layout: post
-title: CNIO Summer Training Program
-img: cnio200.jpg
-tags: ["tag_a", "tag_b"]
-date: 2022-01-16
+title: CNIO Summer Training Program (2025)
+img: cnio_biointerns.png
+date: 2024-09-24
 ---
 
-**SPANISH NATIONAL CANCER INSTITUTE SUMMER TRAINING PROGRAMM**
+**SPANISH NATIONAL CANCER INSTITUTE SUMMER TRAINING PROGRAMME (2025)**
 
 **Where**: Madrid, Spain
 
