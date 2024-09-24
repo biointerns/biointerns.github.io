@@ -1,8 +1,8 @@
 ---
 layout: post
 title: CHSL Undergraduate Research Program (2025)
-img: cshl_alt3.png
-date: 2024-09-22
+img: cshl_biointerns.png
+date: 2024-09-24
 ---
 
 **COLD SPRING HARBOR LABORATORY UNDERGRADUATE RESEARCH PROGRAM (2025)**

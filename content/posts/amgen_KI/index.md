@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Amgen Scholars Karolinska Institutet
-img: karol_logo.png
-tags: ["tag_a", "tag_b"]
-date: 2022-01-16
+title: Amgen Scholars Karolinska Institutet (2025)
+img: ki_biointerns.png
+date: 2024-09-24
 ---
 
-**AMGEN SCHOLARS PROGRAM at KAROLINSKA INSTITUTET**
+**AMGEN SCHOLARS PROGRAM at KAROLINSKA INSTITUTET (2025)**
 
 **Where**: Stockholm, Sweden 
 

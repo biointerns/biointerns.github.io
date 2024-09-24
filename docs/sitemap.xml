@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://biointerns.github.io/posts/amgen_eth/</loc>
+    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biointerns.github.io/posts/amgen_ki/</loc>
+    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biointerns.github.io/</loc>
+    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biointerns.github.io/posts/cshl/</loc>
+    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biointerns.github.io/posts/epfl/</loc>
+    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biointerns.github.io/posts/</loc>
+    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://biointerns.github.io/posts/amgen_paris/</loc>
     <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://biointerns.github.io/</loc>
-    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://biointerns.github.io/posts/bsc_hpc/</loc>
-    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://biointerns.github.io/posts/cshl/</loc>
     <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://biointerns.github.io/posts/crg/</loc>
@@ -24,9 +36,6 @@
     <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://biointerns.github.io/posts/oist/</loc>
-    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://biointerns.github.io/posts/</loc>
     <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://biointerns.github.io/posts/utrip/</loc>
@@ -43,12 +52,6 @@
   </url><url>
     <loc>https://biointerns.github.io/tags/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://biointerns.github.io/posts/amgen_eth/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://biointerns.github.io/posts/amgen_ki/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://biointerns.github.io/posts/amgen_kyoto/</loc>
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
@@ -69,9 +72,6 @@
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://biointerns.github.io/posts/cnio/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://biointerns.github.io/posts/epfl/</loc>
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://biointerns.github.io/posts/buss/</loc>

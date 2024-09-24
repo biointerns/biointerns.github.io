@@ -1,12 +1,11 @@
 ---
 layout: post
-title: EPFL Summer Research Program
-img: epfl.png
-tags: ["tag_a", "tag_b"]
-date: 2022-01-16
+title: EPFL Summer Research Program (2025)
+img: epfl_biointerns.png
+date: 2024-09-24
 ---
 
-**ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE SUMMER RESEARCH PROGRAM**
+**ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE SUMMER RESEARCH PROGRAM (2025)**
 
 **Where**: Lausanne, Switzerland
 

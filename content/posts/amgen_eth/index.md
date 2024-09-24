@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Amgen Scholars ETH Zurich
-img: eth_logo.png
-tags: ["tag_a", "tag_b"]
-date: 2022-01-16
+title: Amgen Scholars ETH Zurich (2025)
+img: eth_biointerns.png
+date: 2024-09-24
 ---
 
-**AMGEN SCHOLARS PROGRAM at ETH ZURICH**
+**AMGEN SCHOLARS PROGRAM at ETH ZURICH (2025)**
 
 **Where**: Zurich, Switzerland 
 
