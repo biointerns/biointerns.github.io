@@ -1,12 +1,11 @@
 ---
 layout: post
-title: ISTernship Summer Program
-img: ist_logo200.jpg
-tags: ["tag_a", "tag_b"]
-date: 2022-01-16
+title: ISTernship Summer Program (2025)
+img: ista_biointerns.png
+date: 2024-09-24
 ---
 
-**SUMMER PROGRAM at the INSTITUTE OF SCIENCE AND TECHNOLOGY AUSTRIA** 
+**SUMMER PROGRAM at the INSTITUTE OF SCIENCE AND TECHNOLOGY AUSTRIA (2025)** 
 
 **Where**: Vienna, Austria
 

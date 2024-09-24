@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amgen Scholars National University of Singapore (2025) 
-img: nus_biointerns.jpg
+img: nus_biointerns.png
 date: 2024-09-24
 ---
 

@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Vienna BioCenter Summer School
-img: vienna.png
-tags: ["tag_a", "tag_b"]
-date: 2022-01-16
+title: Vienna BioCenter Summer School (2025)
+img: vienna_biocenter_biointerns.png
+date: 2024-09-24
 ---
 
 **VIENNA BIOCENTER SUMMER SCHOOL**
