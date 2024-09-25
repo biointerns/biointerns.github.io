@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Unil Summer Undergraduate Research Programme
-img: unil200.png
-tags: ["tag_a", "tag_b"]
-date: 2022-01-16
+title: Unil Summer Undergraduate Research Programme (2025)
+img: unil_biointerns.png
+date: 2024-09-24
 
 ---
 
-**UNIVERSITY OF LAUSANNE SUMMER UNDERGRADUATE RESEARCH PROGRAMME**
+**UNIVERSITY OF LAUSANNE SUMMER UNDERGRADUATE RESEARCH PROGRAMME (2025)**
 
 **Where**: Lausanne, Switzerland
 

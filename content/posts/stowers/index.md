@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Stowers Summer Scholars (2025)
-img: stowers200.jpg
-tags: ["tag_a", "tag_b"]
-date: 2024-09-14
+img: stowers_biointerns.png
+date: 2024-09-24
 ---
 
-**STOWERS INSTITUTE SUMMER SCHOLARS**
+**STOWERS INSTITUTE SUMMER SCHOLARS (2025)**
 
 **Where**: Kansas City, United States 
 

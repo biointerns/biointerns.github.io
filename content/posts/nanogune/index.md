@@ -1,12 +1,11 @@
 ---
 layout: post
-title: nanoGUNE Summer Internship
-img: nanogune200.jpg
-tags: ["tag_a", "tag_b"]
-date: 2022-01-16
+title: nanoGUNE Summer Internship (2025)
+img: nanogune_biointerns.png
+date: 2024-09-24
 ---
 
-**nanoGUNE Summer Internship**
+**nanoGUNE Summer Internship (2025)**
 
 **Where**: San Sebastian, Spain
 
