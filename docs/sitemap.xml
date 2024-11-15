@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://biointerns.github.io/posts/amgen_eth/</loc>
-    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+    <loc>https://biointerns.github.io/</loc>
+    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://biointerns.github.io/posts/amgen_ki/</loc>
-    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+    <loc>https://biointerns.github.io/posts/</loc>
+    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://biointerns.github.io/posts/amgen_kyoto/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
@@ -17,16 +17,7 @@
     <loc>https://biointerns.github.io/posts/amgen_china/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://biointerns.github.io/posts/amgen_cambridge/</loc>
-    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://biointerns.github.io/posts/amgen_tokyo/</loc>
-    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://biointerns.github.io/</loc>
-    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://biointerns.github.io/posts/biozentrum/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://biointerns.github.io/posts/cshl/</loc>
@@ -50,9 +41,6 @@
     <loc>https://biointerns.github.io/posts/nanogune/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://biointerns.github.io/posts/</loc>
-    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://biointerns.github.io/posts/stowers/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -61,9 +49,6 @@
   </url><url>
     <loc>https://biointerns.github.io/posts/vienna/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://biointerns.github.io/posts/amgen_paris/</loc>
-    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://biointerns.github.io/posts/bsc_hpc/</loc>
     <lastmod>2024-09-22T00:00:00+00:00</lastmod>

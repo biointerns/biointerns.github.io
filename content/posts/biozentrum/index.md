@@ -2,18 +2,18 @@
 layout: post
 title: Biozentrum Research Summer (2025) 
 img: biozentrum_biointerns.png
-date: 2024-09-24
+date: 2024-10-31
 ---
 
 **BIOZENTRUM RESEARCH SUMMER (2025)**
 
 **Where**: Basel, Switzerland 
 
-**When**: 7 to 9 weeks between July to September 2022
+**When**: 7 to 9 weeks between mid July and mid September 2025
 
-**Application Deadline**: 28/02/2022
+**Application Deadline**: 20/02/2025
 
-**Benefits**: 1450 CHF/month 
+**Benefits**: 1510 CHF/month to cover accommodation and living expenses
 
 **Research areas**: 
 

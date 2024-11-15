@@ -2,18 +2,18 @@
 layout: post
 title: Amgen Scholars University of Cambridge (2025)
 img: cambridge_biointerns.png
-date: 2024-09-24
+date: 2024-10-31
 ---
 
 **AMGEN SCHOLARS PROGRAMS at the UNIVERSITY OF CAMBRIDGE**
 
 **Where**: Cambridge, United Kingdom 
 
-**When**: 11/07 - 07/09/2022
+**When**: 07/07 - 03/09/2025
 
-**Application Deadline**: 01/02/2022
+**Application Deadline**: 01/02/2025
 
-**Benefits**: accommodation and travel costs are covered + stipend for personal expenses
+**Benefits**: accommodation and travel costs are covered + stipend for personal expenses (in line with UK's minimum wage)
 
 **Website**: [Amgen Cambridge](https://amgenscholars.bio.cam.ac.uk)
 
