@@ -2,7 +2,7 @@
 layout: post
 title: Amgen Scholars ETH Zurich (2025)
 img: eth_biointerns.png
-date: 2024-10-31
+date: 2024-11-15
 ---
 
 **AMGEN SCHOLARS PROGRAM at ETH ZURICH (2025)**

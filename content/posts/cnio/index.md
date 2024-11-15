@@ -2,7 +2,7 @@
 layout: post
 title: CNIO Summer Training Program (2025)
 img: cnio_biointerns.png
-date: 2024-09-24
+date: 2024-11-15
 ---
 
 **SPANISH NATIONAL CANCER INSTITUTE SUMMER TRAINING PROGRAMME (2025)**

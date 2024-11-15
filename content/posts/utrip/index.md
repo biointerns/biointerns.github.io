@@ -2,7 +2,7 @@
 layout: post
 title: University of Tokyo Research Internship Program (UTRIP 2025)
 img: utrip_biointerns.png 
-date: 2024-09-22
+date: 2024-11-15
 ---
 
 **University of Tokyo Research Internship Program (2025)**

@@ -2,7 +2,7 @@
 layout: post
 title: Biozentrum Research Summer (2025) 
 img: biozentrum_biointerns.png
-date: 2024-10-31
+date: 2024-11-15
 ---
 
 **BIOZENTRUM RESEARCH SUMMER (2025)**

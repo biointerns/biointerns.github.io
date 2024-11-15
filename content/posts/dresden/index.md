@@ -2,7 +2,7 @@
 layout: post
 title: Max Planck Dresden Biological Physics Summer Internship (2025)
 img: dresden_biointerns.png
-date: 2024-09-24
+date: 2024-11-15
 ---
 
 **MAX PLANCK DRESDEN BIOLOGICAL PHYSICS SUMMER INTERNSHIP (2025)**

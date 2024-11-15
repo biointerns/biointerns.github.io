@@ -2,7 +2,7 @@
 layout: post
 title: Amgen Scholars University of Cambridge (2025)
 img: cambridge_biointerns.png
-date: 2024-10-31
+date: 2024-11-15
 ---
 
 **AMGEN SCHOLARS PROGRAMS at the UNIVERSITY OF CAMBRIDGE**

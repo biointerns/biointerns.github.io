@@ -2,7 +2,7 @@
 layout: post
 title: Max Planck Berlin Infection Biology Summer Internship (2025)
 img: berlin_biointerns.png
-date: 2024-09-24
+date: 2024-11-15
 ---
 
 **MAX PLANCK BERLIN INFECTION BIOLOGY SUMMER INTERNSHIP (2025)**

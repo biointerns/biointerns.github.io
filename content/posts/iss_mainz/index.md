@@ -2,7 +2,7 @@
 layout: post
 title: International Summer School in Mainz (2025)
 img: imb_biointerns.png
-date: 2024-09-24
+date: 2024-11-15
 ---
 
 **INTERNATIONAL SUMMER SCHOOL at the INSTITUTE OF MOLECULAR BIOLOGY in MAINZ 2025 (Gene Regulation, Epigenetics and Genome Stability)**

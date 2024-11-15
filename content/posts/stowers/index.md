@@ -2,7 +2,7 @@
 layout: post
 title: Stowers Summer Scholars (2025)
 img: stowers_biointerns.png
-date: 2024-09-24
+date: 2024-11-15
 ---
 
 **STOWERS INSTITUTE SUMMER SCHOLARS (2025)**

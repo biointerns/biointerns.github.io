@@ -2,7 +2,7 @@
 layout: post
 title: Amgen Scholars Karolinska Institutet (2025)
 img: ki_biointerns.png
-date: 2024-10-31
+date: 2024-11-15
 ---
 
 **AMGEN SCHOLARS PROGRAM at KAROLINSKA INSTITUTET (2025)**

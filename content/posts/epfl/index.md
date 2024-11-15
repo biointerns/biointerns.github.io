@@ -2,7 +2,7 @@
 layout: post
 title: EPFL Summer Research Program (2025)
 img: epfl_biointerns.png
-date: 2024-09-24
+date: 2024-11-15
 ---
 
 **ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE SUMMER RESEARCH PROGRAM (2025)**

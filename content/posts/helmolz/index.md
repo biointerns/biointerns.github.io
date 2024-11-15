@@ -2,7 +2,7 @@
 layout: post
 title: Helmholtz Munich Epigenetics Summer Internship (2025)
 img: helmholtz_biointerns.png
-date: 2024-09-24
+date: 2024-11-15
 ---
 
 **HELMHOLTZ MUNICH EPIGENETICS SUMMER INTERNSHIP (2025)**

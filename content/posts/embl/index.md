@@ -2,7 +2,7 @@
 layout: post
 title: EMBL Undergraduate Internships (2025)
 img: embl_biointerns.png
-date: 2024-09-22
+date: 2024-11-15
 ---
 
 **EMBL Undergraduate Internships (2025)**
