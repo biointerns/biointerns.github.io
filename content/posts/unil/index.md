@@ -10,9 +10,9 @@ date: 2024-09-24
 
 **Where**: Lausanne, Switzerland
 
-**When**: 4/07 - 26/08/2022
+**When**: 7/07 - 28/08/2025
 
-**Application Deadline**: 31/01/2022
+**Application Deadline**: 31/01/2025
 
 **Benefits**: accommodation and travel costs are covered + 1500 CHF for personal expenses
 

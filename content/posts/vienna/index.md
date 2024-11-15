@@ -5,13 +5,13 @@ img: vienna_biocenter_biointerns.png
 date: 2024-09-24
 ---
 
-**VIENNA BIOCENTER SUMMER SCHOOL**
+**VIENNA BIOCENTER SUMMER SCHOOL (2025)**
 
 **Where**: Vienna, Austria  
 
-**When**: 01/07 - 31/08/2022
+**When**: 27/06 - 29/08/2025
 
-**Application Deadline**: 31/01/2022
+**Application Deadline**: 31/01/2025
 
 **Benefits**: accommodation and travel costs are covered + 1400 EURO for personal expenses
 

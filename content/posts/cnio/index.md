@@ -15,5 +15,5 @@ date: 2024-09-24
 
 **Benefits**: TBA 
 
-**Website***: [CNIO Summer Training](https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/)
+**Website**: [CNIO Summer Training](https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/)
 
