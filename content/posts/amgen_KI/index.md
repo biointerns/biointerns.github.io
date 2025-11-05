@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amgen Scholars Karolinska Institutet (2026)
+title: Amgen Scholars Karolinska Institutet
 img: ki_biointerns.png
 date: 2025-11-05
 ---

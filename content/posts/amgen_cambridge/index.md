@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amgen Scholars University of Cambridge (2026)
+title: Amgen Scholars University of Cambridge
 img: cambridge_biointerns.png
 date: 2025-11-05
 ---

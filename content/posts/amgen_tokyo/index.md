@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amgen Scholars University of Tokyo (2026) 
+title: Amgen Scholars University of Tokyo 
 img: tokyo_amgen_biointerns.png
 date: 2025-11-05
 ---

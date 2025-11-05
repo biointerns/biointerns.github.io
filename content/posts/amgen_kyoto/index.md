@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amgen Scholars Kyoto University (2026)
+title: Amgen Scholars Kyoto University
 img: kyoto_biointerns.png
 date: 2025-11-05
 ---

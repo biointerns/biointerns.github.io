@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amgen Scholars Institut Pasteur (2026)
+title: Amgen Scholars Institut Pasteur
 img: pasteur_biointerns.png
 date: 2025-11-05
 ---

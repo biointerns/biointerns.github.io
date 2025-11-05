@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amgen Scholars ETH Zurich (2026)
+title: Amgen Scholars ETH Zurich
 img: eth_biointerns.png
 date: 2025-11-05
 ---
