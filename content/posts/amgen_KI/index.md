@@ -1,17 +1,19 @@
 ---
 layout: post
-title: Amgen Scholars Karolinska Institutet (2025)
+title: Amgen Scholars Karolinska Institutet (2026)
 img: ki_biointerns.png
-date: 2024-11-15
+date: 2025-11-05
 ---
 
-**AMGEN SCHOLARS PROGRAM at KAROLINSKA INSTITUTET (2025)**
+**AMGEN SCHOLARS PROGRAM at KAROLINSKA INSTITUTET**
+
+_Open to students at European universities_
 
 **Where**: Stockholm, Sweden 
 
-**When**: 25/06 - 03/09/2025
+**When**: 22/06 - 14/08/2026 + 03-05/09/2026
 
-**Application Deadline**: 01/02/2025
+**Application Deadline**: 01/02/2026
 
 **Benefits**: accommodation and travel costs are covered + 11,000 SEK/month for personal expenses 
 

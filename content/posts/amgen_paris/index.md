@@ -1,17 +1,19 @@
 ---
 layout: post
-title: Amgen Scholars Institut Pasteur (2025)
+title: Amgen Scholars Institut Pasteur (2026)
 img: pasteur_biointerns.png
-date: 2024-11-15
+date: 2025-11-05
 ---
 
-**AMGEN SCHOLARS PROGRAM at INSTITUT PASTEUR (2025)**
+**AMGEN SCHOLARS PROGRAM at INSTITUT PASTEUR**
+
+_Open to students at European universities_ 
 
 **Where**: Paris, France
 
-**When**: 01/07 - 03/09/2025
+**When**: 06/07 - 05/09/2026
 
-**Application Deadline**: 01/02/2025
+**Application Deadline**: 01/02/2026
 
 **Benefits**: accommodation and travel costs are covered + 1400 EURO for personal expenses
 
