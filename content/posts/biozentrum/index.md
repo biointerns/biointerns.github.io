@@ -7,7 +7,7 @@ date: 2025-11-05
 
 **BIOZENTRUM RESEARCH SUMMER**
 
-_Open to students with a Swiss or EU citizenship as well as holders of a Swiss C-permit_
+_Open to students with a Swiss or EU citizenship as well as holders of a Swiss C permit_
 
 **Where**: Basel, Switzerland 
 
