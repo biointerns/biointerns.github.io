@@ -1,18 +1,20 @@
 ---
 layout: post
-title: Max Planck Dresden Biological Physics Summer Internship (2025)
+title: Max Planck Dresden Biological Physics Summer Internship
 img: dresden_biointerns.png
-date: 2024-11-15
+date: 2025-11-05
 ---
 
-**MAX PLANCK DRESDEN BIOLOGICAL PHYSICS SUMMER INTERNSHIP (2025)**
+**MAX PLANCK DRESDEN BIOLOGICAL PHYSICS SUMMER INTERNSHIP**
+
+_Open to students around the world_
 
 **Where**: Dresden, Germany
 
-**When**: up to 90 days during Summer 2025
+**When**: up to 90 days during Summer 2026
 
-**Application Deadline**: 09/12/2024
+**Application Deadline**: 30/11/2025
 
 **Benefits**: financial support is available to all interns (does not specificy how much)
 
-**Website**: [Max Planck Dresden](https://www.pks.mpg.de/order-and-disorder-in-driven-systems/jobs/biological-physics-summer-internship)
+**Website**: [Max Planck Dresden](https://www.pks.mpg.de/biophys-internship)
