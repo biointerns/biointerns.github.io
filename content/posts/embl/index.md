@@ -1,11 +1,13 @@
 ---
 layout: post
-title: EMBL Undergraduate Internships (2025)
+title: EMBL Undergraduate Internships
 img: embl_biointerns.png
-date: 2024-11-15
+date: 2025-11-05
 ---
 
-**EMBL Undergraduate Internships (2025)**
+**EMBL Undergraduate Internships**
+
+_Open to students around the world_
 
 **Where**: Any EMBL site: Heidelberg, Germany; Grenoble, France; Hinxton, United Kingdom; Monterotondo, Italy; Barcelona, Spain; Hamburg, Germany.   
 
@@ -27,6 +29,6 @@ date: 2024-11-15
  * Protein & proteomics 
  * Tissue & systems biology 
 
-**Website**: [EMBL internship](https://www.embl.de/training/undergraduates/application_admission/index.php)
+**Website**: [EMBL internship](https://www.embl.org/about/info/undergraduates/how-to-apply/)
 
 
