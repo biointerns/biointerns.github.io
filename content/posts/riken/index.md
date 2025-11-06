@@ -1,19 +1,21 @@
 ---
 layout: post
-title: IBRO/RIKEN Summer Program (2025) 
+title: IBRO/RIKEN Summer Program 
 img: riken_biointerns.png
-date: 2024-11-15
+date: 2025-11-05
 ---
 
-**RIKEN CENTER FOR BRAIN SCIENCE SUMMER PROGRAM (2025)**
+**RIKEN CENTER FOR BRAIN SCIENCE SUMMER PROGRAM**
+
+_Open to students around the world_
 
 **Where**: Tokyo, Japan
 
-**When**: 10/06 - 08/08/2025 
+**When**: 09/06 - 07/08/2026
 
-**Application Deadline**: TBD - applications open in November  
+**Application Deadline**: 07/01/2026  
 
-**Benefits**: accommodation and travel costs are covered
+**Benefits**: accommodation and travel costs are covered if request for financial support is approved
 
 **Website**: [RIKEN](https://cbs.riken.jp/en/summer/)
 
