@@ -1,19 +1,21 @@
 ---
 layout: post
-title: EPFL Summer Research Program (2025)
+title: EPFL Summer Research Program
 img: epfl_biointerns.png
-date: 2024-11-15
+date: 2025-11-05
 ---
 
-**ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE SUMMER RESEARCH PROGRAM (2025)**
+**ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE SUMMER RESEARCH PROGRAM**
+
+_Open to students around the world_
 
 **Where**: Lausanne, Switzerland
 
-**When**: 07/07 - 28/08/2025 
+**When**: 03/07 - 27/08/2026 
 
-**Application Deadline**: 31/01/2025
+**Application Deadline**: 15/11/2025
 
-**Benefits**: travel expenses are covered + 3400 CHF to cover accommodation and personal expenses
+**Benefits**: travel expenses are covered + 3600 CHF to cover accommodation and personal expenses
 
 **Website**: [EPFL Summer Research Program](https://www.epfl.ch/schools/sv/education/summer-research-program/)
 
