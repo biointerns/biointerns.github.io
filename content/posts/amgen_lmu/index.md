@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amgen Scholars LMU München
-img: cambridge_biointerns.png
+img: amgen_lmu.png
 date: 2025-11-05
 ---
 
