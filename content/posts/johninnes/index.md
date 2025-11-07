@@ -1,11 +1,11 @@
 ---
 layout: post
-title: John Innes Centre Undergraduate Summer School
+title: John Innes Centre Undergraduate Summer School (2025)
 img: john_innes.png
-date: 2024-11-05
+date: 2024-11-15
 ---
 
-**John Innes Centre Undergraduate Summer School**
+**John Innes Centre Undergraduate Summer School (2025)**
 
 _Open to students at around the world_
 
