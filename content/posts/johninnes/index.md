@@ -1,19 +1,19 @@
 ---
 layout: post
-title: John Innes Centre Undergraduate Summer School (2025)
+title: John Innes Centre Undergraduate Summer School (2026)
 img: john_innes.png
-date: 2024-11-15
+date: 2026-03-05
 ---
 
-**John Innes Centre Undergraduate Summer School (2025)**
+**John Innes Centre Undergraduate Summer School (2026)**
 
 _Open to students at around the world_
 
 **Where**: Norwich, United Kingdom
 
-**When**: 29/06 - 22/08/2025
+**When**: 29/06 - 22/08/2026
 
-**Application Deadline**: 16/01/2025
+**Application Deadline**: 16/01/2026
 
 **Benefits**: accommodation and travel costs are covered + stipend for personal expenses (does not specificy how much)
 

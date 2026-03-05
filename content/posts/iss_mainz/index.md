@@ -1,20 +1,20 @@
 ---
 layout: post
-title: International Summer School in Mainz (2025)
+title: NextGen Training Programme (2026)
 img: imb_biointerns.png
-date: 2024-11-15
+date: 2026-03-05
 ---
 
-**INTERNATIONAL SUMMER SCHOOL at the INSTITUTE OF MOLECULAR BIOLOGY in MAINZ 2025 (Gene Regulation, Epigenetics and Genome Stability)**
+**NEXT TRAINING PROGRAMME in MAINZ 2026 (Gene Regulation, Epigenetics and Genome Stability)**
 
 **Where**: Mainz, Germany 
 
-**When**: TBA
+**When**: Anytime
 
-**Application Deadline**: TBA
+**Application Deadline**: 4-5 months before intented start date
 
-**Benefits**: accommodation and travel costs are covered  
+**Benefits**: should be covered by Erasmus+ funding or other source  
 
-**Website**: [ISS Mainz](https://www.imb.de/students-postdocs/international-summer-school/)
+**Website**: [ISS Mainz](https://www.imb.de/students-postdocs/nextgen-training-programme)
 
 
