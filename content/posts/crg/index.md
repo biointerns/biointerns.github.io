@@ -1,17 +1,17 @@
 ---
 layout: post
-title: CRG Undergraduate Internships
+title: CRG Undergraduate & Master Internships
 img: CRG.png
-date: 2025-11-05
+date: 2026-03-05
 ---
 
-**Centre for Genomic Regulation Undergraduate Internships**
+**Centre for Genomic Regulation Undergraduate & Master Internships**
 
 _Open to students around the world_
 
 **Where**: Barcelona, Spain
 
-**When**: anytime, to be decided together with Group Leader
+**When**: anytime (for up to 5 months), to be decided together with Group Leader
 
 **Application Deadline**: anytime
 
