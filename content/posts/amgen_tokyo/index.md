@@ -2,7 +2,7 @@
 layout: post
 title: Amgen Scholars University of Tokyo 
 img: tokyo_amgen_biointerns.png
-date: 2025-11-05
+date: 2026-11-05
 ---
 
 **AMGEN SCHOLARS PROGRAM at the UNIVERSITY OF TOKYO**
@@ -11,9 +11,9 @@ _Open to students at Asian universities_
 
 **Where**: Tokyo, Japan  
 
-**When**: 04/06 - 06/08/2026 
+**When**: 03/06 - 05/08/2027 
 
-**Application Deadline**: 01/02/2026
+**Application Deadline**: 01/02/2027
 
 **Benefits**: accommodation and travel costs are covered + 250,000 YEN for personal expenses
 

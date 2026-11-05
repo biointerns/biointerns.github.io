@@ -2,7 +2,7 @@
 layout: post
 title: CRG Undergraduate & Master Internships
 img: CRG.png
-date: 2026-03-05
+date: 2026-11-05
 ---
 
 **Centre for Genomic Regulation Undergraduate & Master Internships**

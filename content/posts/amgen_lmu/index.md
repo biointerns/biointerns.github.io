@@ -2,7 +2,7 @@
 layout: post
 title: Amgen Scholars LMU München
 img: amgen_lmu.png
-date: 2025-11-05
+date: 2026-11-05
 ---
 
 **AMGEN SCHOLARS PROGRAMS at Ludwig-Maximilians-Universität München**
@@ -11,9 +11,9 @@ _Open to students at European universities_
 
 **Where**: Munich, Germany
 
-**When**: 26/06 - 05/09/2026
+**When**: 02/07 - 04/09/2027
 
-**Application Deadline**: 01/02/2026
+**Application Deadline**: 01/02/2027
 
 **Benefits**: accommodation and travel costs are covered + €1700 for personal expenses
 

@@ -2,7 +2,7 @@
 layout: post
 title: Biozentrum Research Summer 
 img: biozentrum_biointerns.png
-date: 2025-11-05
+date: 2026-11-05
 ---
 
 **BIOZENTRUM RESEARCH SUMMER**
@@ -11,11 +11,11 @@ _Open to students with a Swiss or EU citizenship as well as holders of a Swiss C
 
 **Where**: Basel, Switzerland 
 
-**When**: 7 to 9 weeks between mid July and mid September 2026
+**When**: 7 to 9 weeks between mid July and mid September 2027
 
-**Application Deadline**: 25/02/2026
+**Application Deadline**: 28/02/2027
 
-**Benefits**: 2060 CHF/month to cover accommodation and living expenses
+**Benefits**: 1736 CHF/month to cover accommodation and living expenses
 
 **Research areas**: 
 

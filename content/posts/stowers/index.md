@@ -2,7 +2,7 @@
 layout: post
 title: Stowers Summer Scholars
 img: stowers_biointerns.png
-date: 2025-11-05
+date: 2026-11-05
 ---
 
 **STOWERS INSTITUTE SUMMER SCHOLARS**
@@ -11,9 +11,9 @@ _Open to students around the world_
 
 **Where**: Kansas City, United States 
 
-**When**: 01/06 - 24/07/2026
+**When**: 07/06 - 30/07/2027
 
-**Application Deadline**: 16/01/2025 
+**Application Deadline**: 16/01/2027 
 
 **Benefits**: accommodation and travel costs are covered + 5000 DOLLARS for personal expenses
 

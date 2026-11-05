@@ -3,7 +3,7 @@
 layout: post
 title: Unil Summer Undergraduate Research Programme
 img: unil_biointerns.png
-date: 2025-11-05
+date: 2026-11-05
 
 ---
 
@@ -13,9 +13,9 @@ _Open to students around the world_
 
 **Where**: Lausanne, Switzerland
 
-**When**: 3/07 - 27/08/2026
+**When**: 5/07 - 27/08/2026
 
-**Application Deadline**: 31/12/2025
+**Application Deadline**: 15/11/2026
 
 **Benefits**: accommodation and travel costs are covered + 1500 CHF for personal expenses
 

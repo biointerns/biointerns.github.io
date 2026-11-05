@@ -1,11 +1,11 @@
 ---
 layout: post
-title: NextGen Training Programme (2026)
+title: NextGen Training Programme Mainz
 img: imb_biointerns.png
-date: 2026-03-05
+date: 2026-11-05
 ---
 
-**NEXT TRAINING PROGRAMME in MAINZ 2026 (Gene Regulation, Epigenetics and Genome Stability)**
+**NEXT TRAINING PROGRAMME in MAINZ (Gene Regulation, Epigenetics and Genome Stability)**
 
 **Where**: Mainz, Germany 
 
