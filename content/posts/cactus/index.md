@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Computation and Cognition Tubingen Summer Internship
-img: tubingen_biointerns.png
+img: cactus_biointerns.png
 date: 2026-11-06
 ---
 
